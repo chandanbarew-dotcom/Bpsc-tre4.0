@@ -1,0 +1,6 @@
+{
+  "name": "BPSC TRE Computer Science – Syllabus & Notes",
+  "description": "BPSC TRE 4.0 Computer Science preparation platform with syllabus, chapter-wise notes, ₹1 PDF session notes, MCQs, and practice sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
